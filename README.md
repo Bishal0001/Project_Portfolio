@@ -30,3 +30,7 @@
 
 # Project 7-link -[ Business Case: Apollo ]( https://drive.google.com/file/d/1pReXBxmpXF4QdYgu6sf5QfNMAjtmKdvL/view?usp=sharing )
 
+
+
+
+# Project 8-link -[ Automated a system: Nitin Bhatiya 40% ]( https://drive.google.com/file/d/1ysAphkwaNQIPlmdiyPY9AHYr-lDodYo5/view?usp=sharing )
