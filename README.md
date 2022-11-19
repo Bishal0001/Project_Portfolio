@@ -41,3 +41,10 @@
 
 
 # Project 9-link -[ Jamboree Education - Linear Regression ]( https://drive.google.com/file/d/15ZIV-h48SRrSyytGBDwGop4jNSCi1_t2/view?usp=share_link )
+
+
+
+
+
+
+# Project 10-link -[ LoanTap: Logistic Regression ]( https://drive.google.com/file/d/1HoncwpxbAcXWP30LdpwAREVrfUgEfb8E/view?usp=share_link )
