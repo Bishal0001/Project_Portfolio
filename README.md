@@ -33,7 +33,7 @@
 
 
 
-# Project 8-link -[ Automated a system: Nitin Bhatiya 40% ]( https://drive.google.com/file/d/1ysAphkwaNQIPlmdiyPY9AHYr-lDodYo5/view?usp=sharing )
+# Project 8-link -[ Track Promoters Equity - Automated Equity Screener]( https://drive.google.com/file/d/1ysAphkwaNQIPlmdiyPY9AHYr-lDodYo5/view?usp=sharing )
 
 
 
