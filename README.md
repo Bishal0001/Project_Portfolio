@@ -54,3 +54,11 @@
 
 
 # Project 11-link -[ OLA: Ensemble Learning ]( https://drive.google.com/file/d/1JMMAA7uX_DJ9ZPTYt4_uOCF--x82xASI/view?usp=share_link )
+
+
+
+
+
+
+
+# Project 12-link -[  Scaler : Clustering ]( https://drive.google.com/file/d/1iUNb7SWjxhlrhkWeGZmZiwYxu3izIseG/view?usp=share_link )
